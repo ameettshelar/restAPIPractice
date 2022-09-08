@@ -1,0 +1,5 @@
+# Created at 2022-09-08T06:34:22.653
+Boot Manifest-JAR contains absolute paths in classpath 'E:\Ameett\Learning\RestAPIFramework\RestAPIFramework\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
