@@ -73,6 +73,7 @@ public class StepDefination extends Utils  {
 		
 		assertEquals(response.getStatusCode(), 200);
 		System.out.println("Git Branch Demo");
+		
 	}
 	
 	@Then("{string} in response body is {string}")
