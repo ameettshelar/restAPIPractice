@@ -72,6 +72,7 @@ public class StepDefination extends Utils  {
 		//response=then().log().all().spec(resspec).extract().response();
 		
 		assertEquals(response.getStatusCode(), 200);
+		System.out.println("Git Branch Demo");
 		
 	}
 	
